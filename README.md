@@ -1,1 +1,1 @@
-#store.html #store.json # Shop
+# Shop
